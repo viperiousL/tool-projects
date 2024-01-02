@@ -1,0 +1,33 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/libing?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+
+
+logging:
+  file:
+    name: log/log.log
+  level:
+    root: info
+    com.libng:
+      libingdemo: debug
+
+mybatis-plus:
+  type-aliases-package: com.libng.libingdemo.entity
+  mapper-locations: classpath:/mapper/*.xml
+
+
+
+
+
+
+

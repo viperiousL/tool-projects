@@ -1,0 +1,72 @@
+2023-12-29 09:14:57.469  INFO 17400 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Starting LibingDemoApplication using Java 1.8.0_391 on DESKTOP-U3HNGB5 with PID 17400 (D:\code\libing-demo\target\classes started by admin in D:\code\libing-demo)
+2023-12-29 09:14:57.479  INFO 17400 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-12-29 09:14:57.524  INFO 17400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-29 09:14:57.524  INFO 17400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-29 09:14:58.604  INFO 17400 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-12-29 09:14:58.612  INFO 17400 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-29 09:14:58.612  INFO 17400 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-12-29 09:14:58.677  INFO 17400 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-29 09:14:58.677  INFO 17400 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1152 ms
+2023-12-29 09:15:00.771  INFO 17400 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-29 09:15:00.823  INFO 17400 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-12-29 09:15:00.834  INFO 17400 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Started LibingDemoApplication in 3.723 seconds (JVM running for 5.418)
+2023-12-29 09:15:11.998  INFO 17400 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-29 09:15:11.998  INFO 17400 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-29 09:15:11.998  INFO 17400 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-29 10:43:16.628  INFO 9540 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Starting LibingDemoApplication using Java 1.8.0_391 on DESKTOP-U3HNGB5 with PID 9540 (D:\code\libing-demo\target\classes started by admin in D:\code\libing-demo)
+2023-12-29 10:43:16.629  INFO 9540 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-12-29 10:43:16.660  INFO 9540 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-29 10:43:16.660  INFO 9540 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-29 10:43:17.464  INFO 9540 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-12-29 10:43:17.469  INFO 9540 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-29 10:43:17.470  INFO 9540 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-12-29 10:43:17.528  INFO 9540 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-29 10:43:17.529  INFO 9540 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 868 ms
+2023-12-29 10:43:19.061  INFO 9540 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-29 10:43:19.086  INFO 9540 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-12-29 10:43:19.093  INFO 9540 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Started LibingDemoApplication in 2.732 seconds (JVM running for 3.906)
+2023-12-29 10:43:23.010  INFO 9540 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-29 10:43:23.011  INFO 9540 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-29 10:43:23.011  INFO 9540 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-29 10:43:44.074  INFO 37608 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Starting LibingDemoApplication using Java 1.8.0_391 on DESKTOP-U3HNGB5 with PID 37608 (D:\code\libing-demo\target\classes started by admin in D:\code\libing-demo)
+2023-12-29 10:43:44.075  INFO 37608 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-12-29 10:43:44.104  INFO 37608 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-29 10:43:44.105  INFO 37608 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-29 10:43:44.901  INFO 37608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-12-29 10:43:44.907  INFO 37608 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-29 10:43:44.907  INFO 37608 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-12-29 10:43:44.964  INFO 37608 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-29 10:43:44.964  INFO 37608 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 859 ms
+2023-12-29 10:43:46.512  INFO 37608 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-29 10:43:46.538  INFO 37608 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-12-29 10:43:46.545  INFO 37608 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Started LibingDemoApplication in 2.724 seconds (JVM running for 3.819)
+2023-12-29 10:43:48.677  INFO 37608 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-29 10:43:48.678  INFO 37608 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-29 10:43:48.678  INFO 37608 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-12-29 10:44:49.538  INFO 33664 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Starting LibingDemoApplication using Java 1.8.0_391 on DESKTOP-U3HNGB5 with PID 33664 (D:\code\libing-demo\target\classes started by admin in D:\code\libing-demo)
+2023-12-29 10:44:49.539  INFO 33664 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-12-29 10:44:49.569  INFO 33664 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-29 10:44:49.569  INFO 33664 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-29 10:44:50.389  INFO 33664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-12-29 10:44:50.396  INFO 33664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-29 10:44:50.396  INFO 33664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-12-29 10:44:50.456  INFO 33664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-29 10:44:50.456  INFO 33664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 887 ms
+2023-12-29 10:44:52.048  INFO 33664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-29 10:44:52.073  INFO 33664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-12-29 10:44:52.080  INFO 33664 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Started LibingDemoApplication in 2.796 seconds (JVM running for 3.946)
+2023-12-29 11:18:51.389  INFO 1740 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Starting LibingDemoApplication using Java 1.8.0_391 on DESKTOP-U3HNGB5 with PID 1740 (D:\code\libing-demo\target\classes started by admin in D:\code\libing-demo)
+2023-12-29 11:18:51.390  INFO 1740 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-12-29 11:18:51.422  INFO 1740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-29 11:18:51.422  INFO 1740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-29 11:18:52.219  INFO 1740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2023-12-29 11:18:52.225  INFO 1740 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-29 11:18:52.225  INFO 1740 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-12-29 11:18:52.285  INFO 1740 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-29 11:18:52.285  INFO 1740 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 863 ms
+2023-12-29 11:18:53.818  INFO 1740 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-29 11:18:53.844  INFO 1740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2023-12-29 11:18:53.850  INFO 1740 --- [restartedMain] c.l.libingdemo.LibingDemoApplication     : Started LibingDemoApplication in 2.719 seconds (JVM running for 3.879)
+2023-12-29 11:18:58.494  INFO 1740 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-29 11:18:58.494  INFO 1740 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-29 11:18:58.495  INFO 1740 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
