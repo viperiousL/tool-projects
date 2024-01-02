@@ -1,5 +1,6 @@
 package com.libing.libingdemo.vo;
 
+import com.libing.libingdemo.utils.BuildTreeUtil;
 import lombok.Data;
 
 import java.util.ArrayList;
@@ -15,6 +16,7 @@ import java.util.ArrayList;
 @Data
 public class SysMenuVO {
 
+    @BuildTreeUtil.TreeId
     private Long id;
 
     /**
@@ -25,8 +27,10 @@ public class SysMenuVO {
     /**
      * 父id
      */
+    @BuildTreeUtil.TreeParentId
     private Long pid;
 
+    @BuildTreeUtil.TreeChildren
     private ArrayList<SysMenuVO> cList;
 
 
