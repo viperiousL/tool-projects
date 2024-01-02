@@ -48,7 +48,8 @@ public class BuildTreeUtil {
                 } else if (field.getDeclaredAnnotation(TreeParentId.class) != null) {
                     //获取对象属性 parentId
                     parentIdField = field;
-                } else if (field.getType().equals(List.class)) {
+//                } else if (field.getType().equals(List.class)) {
+                } else if (field.getDeclaredAnnotation(TreeChildren.class) != null) {
                     Type genericType = field.getGenericType();
                     if (genericType instanceof ParameterizedType) {
                         ParameterizedType pt = (ParameterizedType) genericType;
@@ -128,5 +129,10 @@ public class BuildTreeUtil {
     @Target(ElementType.FIELD)
     @Retention(RetentionPolicy.RUNTIME)
     public @interface TreeParentId {
+    }
+
+    @Target(ElementType.FIELD)
+    @Retention(RetentionPolicy.RUNTIME)
+    public @interface TreeChildren {
     }
 }
